@@ -11,6 +11,5 @@ import streamlit as st
 
 st.title("Air pollution in Seoul")
 st.image("https://img.freepik.com/free-photo/view-of-metro-city-buildings-cityscape_53876-14497.jpg?size=626&ext=jpg")
-st.image("https://img.freepik.com/free-photo/view-of-metro-city-buildings-cityscape_53876-14497.jpg?size=626&ext=jpg")
 
 
